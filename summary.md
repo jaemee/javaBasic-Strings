@@ -12,3 +12,9 @@
 3. Since original is immutable and not equals to modified string. Then I used optional to set 'false' 
 4. How to use other Optional.class methods?
 
+### all_modification_method_will_create_new_string
+1. To check if spaces will not be trimmed. And to check if all new String will create a new obfject while modifying the original String without changing the original object
+2. Per normal point of view I thought spaces will be auto trimmed. 
+3. Since original is not auto trimmed and not equals to modified string. Then I used optional to set 'false' 
+4. Same as above.
+
