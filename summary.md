@@ -26,3 +26,9 @@
 3. Same as above answers.
 4. None.
 
+### should_taken_string_apart
+1. To learn how to modify string to a new value using String methods
+2. No errors.
+3. Changed it that way to retain the Expected String. used trim to dynamically remove spaces before/ after the given String.
+4. None.
+
