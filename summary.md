@@ -68,4 +68,8 @@
 3. Because unicode in String literals are represented by small u and to return the correct value need to escape the unicode and add escape string "\" 
 4. None
 
-###
+### should_reverse_a_string
+1. To learn how to reverse a whole String
+2. Same as above
+3. Because there is a default method in StringBuilder class to reverse a string. 
+4. None
