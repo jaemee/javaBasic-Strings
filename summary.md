@@ -38,3 +38,9 @@
 3. The easiest way for me to get the "is" value is to split the sentence and get the word
 4. None.
 
+### should_break_string_into_words
+1. To learn other String functions. Use of split
+2. Same as above.
+3. Because it's just a conversion of String to array and removing spaces which is easily done by split function
+4. None
+
