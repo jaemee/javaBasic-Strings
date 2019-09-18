@@ -61,3 +61,11 @@
 2. Same as above.
 3. Because checksum is per char value of a string. So to get the per char value of the sentence, I get the char value of the String and iterate it by adding to the result
 4. None.
+
+### should_convert_unicode_escape
+1. To learn unicodes in String and how to escape unicodes.
+2. Same as above
+3. Because unicode in String literals are represented by small u and to return the correct value need to escape the unicode and add escape string "\" 
+4. None
+
+###
