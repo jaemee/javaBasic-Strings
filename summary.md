@@ -49,3 +49,9 @@
 2. Same as above
 3. Same as above
 4. None
+
+### should_create_ascii_art
+1. To learn and use StringBuilder
+2. Same as above
+3. Because StringBuilder have a method to append strings. Code wise it's better to use append than to use "+" to concat strings when usin StringBuilder
+4. None
