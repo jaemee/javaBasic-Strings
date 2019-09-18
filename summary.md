@@ -32,3 +32,9 @@
 3. Changed it that way to retain the Expected String. used trim to dynamically remove spaces before/ after the given String.
 4. None.
 
+### should_taken_string_apart_continued
+1. Same as above
+2. No errors. Default values are failed in just one look
+3. The easiest way for me to get the "is" value is to split the sentence and get the word
+4. None.
+
