@@ -73,3 +73,10 @@
 2. Same as above
 3. Because there is a default method in StringBuilder class to reverse a string. 
 4. None
+
+### should_compare_string_with_different_cases
+1. To learn the difference between equals() and equalsIgnoreCase()
+2. Same as above
+3. Because equals() checks the letter case during comparison while equalsIgnoreCase() doesn't
+4. None
+
