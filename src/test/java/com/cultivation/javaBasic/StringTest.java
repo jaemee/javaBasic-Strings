@@ -152,6 +152,10 @@ class StringTest {
         int sum = 0;
         // TODO: Write some code to calculate the checksum of the string. The checksum is the sum of each string char.
         // <--Start
+            char[] tempArray = text.toCharArray();
+            for(int x = 0; x < tempArray.length; x++){
+                sum += tempArray[x];
+            }
         // --End-->
 
         assertEquals(3655, sum);

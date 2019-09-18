@@ -55,3 +55,9 @@
 2. Same as above
 3. Because StringBuilder have a method to append strings. Code wise it's better to use append than to use "+" to concat strings when usin StringBuilder
 4. None
+
+### should_calculate_checksum_of_a_string
+1. To learn the checksum of Strings 
+2. Same as above.
+3. Because checksum is per char value of a string. So to get the per char value of the sentence, I get the char value of the String and iterate it by adding to the result
+4. None.
