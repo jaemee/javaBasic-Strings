@@ -80,3 +80,9 @@
 3. Because equals() checks the letter case during comparison while equalsIgnoreCase() doesn't
 4. None
 
+### should_format_string
+1. To be able to learn String.format() or how to format string and different specifier of format(). Document: https://www.javatpoint.com/java-string-format
+2. Same as above.
+3. Just set the string directly with the specified args given 
+4. None
+
