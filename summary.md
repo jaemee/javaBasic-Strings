@@ -41,6 +41,11 @@
 ### should_break_string_into_words
 1. To learn other String functions. Use of split
 2. Same as above.
-3. Because it's just a conversion of String to array and removing spaces which is easily done by split function
+3. Because it's just a conversion of String to array and removing spaces and regex which is easily done by split function
 4. None
 
+### should_break_string_into_words_customized
+1. Same as above
+2. Same as above
+3. Same as above
+4. None
